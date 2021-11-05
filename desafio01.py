@@ -1,0 +1,5 @@
+print('=== DESAFIO 01 ===')
+dia = input ('Que dia você nasceu? ')
+mes = input ('Que mes voce nasceu? ')
+ano = input ('Que ano voce nasceu? ')
+print('ENTÃO VOCÊ NASCEU DIA',dia,'DE',mes,'DE',ano,'NÃO É?')
